@@ -60,8 +60,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/roronoazororill/roronoazororill/output/snake.svg" alt="Snake animation" />
 
 ###
