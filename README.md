@@ -12,68 +12,29 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/l0Hluu5p4DEJ32RK8/giphy.gif" width="420" alt="Conor McGregor staring"/>
+<img src="https://media.giphy.com/media/l0Hluu5p4DEJ32RK8/giphy.gif" width="420" alt="Conor McGregor"/>
 
 </div>
 
 <br>
 
-<h2>about.exe</h2>
+## about.exe
 
-<p>
 AI Engineer. Machine Learning enthusiast. Data Engineering enjoyer.
-</p>
 
-<p>
-I build intelligent systems from raw data to something that actually works.
-Models, retrieval, APIs, automation, databases — if there is data involved,
-I probably want to touch it.
-</p>
+I build intelligent systems from raw data to something that actually works. Models, retrieval, APIs, automation, databases — if there is data involved, I probably want to touch it.
 
-<p>
-My main territory is <b>Machine Learning, Deep Learning, NLP, LLMs, RAG,
-and Data Engineering</b>.
-</p>
+My main territory is **Machine Learning, Deep Learning, NLP, LLMs, RAG, and Data Engineering**.
 
-<p>
-I train models, build pipelines, move data around, stare at logs,
-and occasionally discover that the bug was a missing comma.
-</p>
+I train models, build pipelines, move data around, stare at logs, and occasionally discover that the bug was a missing comma.
 
-<p>
-<b>Current obsession:</b> making machines understand text,
-retrieve the right context, and do useful things with it.
-</p>
+**Current obsession:** making machines understand text, retrieve the right context, and do useful things with it.
 
 <br>
 
-<h3>the pipeline</h3>
+## stack.exe
 
-<p align="center">
-
-<b>DATA</b>
-&nbsp;→&nbsp;
-<b>MODEL</b>
-&nbsp;→&nbsp;
-<b>RETRIEVAL</b>
-&nbsp;→&nbsp;
-<b>API</b>
-&nbsp;→&nbsp;
-<b>AUTOMATION</b>
-&nbsp;→&nbsp;
-<b>PRODUCTION</b>
-
-</p>
-
-<p align="center">
-<i>raw data enters. intelligence leaves.</i>
-</p>
-
-<br>
-
-<h2>stack.exe</h2>
-
-<h3>AI / Machine Learning</h3>
+### AI / Machine Learning
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="38" alt="python"/>
@@ -96,7 +57,7 @@ retrieve the right context, and do useful things with it.
 <img src="https://img.shields.io/badge/HuggingFace-0D0D0D?style=for-the-badge&logo=huggingface&logoColor=FFD21E"/>
 </p>
 
-<h3>NLP / LLM / Retrieval</h3>
+### NLP / LLM / Retrieval
 
 <p>
 <img src="https://img.shields.io/badge/NLP-0D0D0D?style=for-the-badge&logoColor=FFFFFF"/>
@@ -108,7 +69,7 @@ retrieve the right context, and do useful things with it.
 <img src="https://img.shields.io/badge/Cohere-0D0D0D?style=for-the-badge&logoColor=FFFFFF"/>
 </p>
 
-<h3>Data Engineering / Database</h3>
+### Data Engineering / Database
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="38" alt="pandas"/>
@@ -130,7 +91,7 @@ retrieve the right context, and do useful things with it.
 <img src="https://img.shields.io/badge/MongoDB-0D0D0D?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
 </p>
 
-<h3>Backend / Automation / Infrastructure</h3>
+### Backend / Automation / Infrastructure
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="38" alt="fastapi"/>
@@ -152,22 +113,59 @@ retrieve the right context, and do useful things with it.
 
 <br>
 
-<h2>operating_system</h2>
+## github.exe
 
-<p align="center">
-<i>
-Model training by day.<br>
-Data pipelines by night.<br>
-Occasional violence against broken dependencies.
-</i>
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=andikaprasetyaaa&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andikaprasetyaaa&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="170"/>
+
+</div>
 
 <br>
 
-<p align="center">
-<b>Train the model. Build the pipeline. Ship the system.</b>
-</p>
+<div align="center">
 
-<p align="center">
-<i>no vibes. just pipelines.</i>
-</p>
+<img src="https://streak-stats.demolab.com?user=andikaprasetyaaa&theme=tokyonight&hide_border=true" height="170"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=andikaprasetyaaa&bg_color=0D0D0D&color=FFFFFF&line=FF1E1E&point=FF6B6B&area=true&hide_border=true" width="95%"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=andikaprasetyaaa&theme=onestar&no-frame=true&no-bg=true&margin-w=10&row=1" width="90%"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=andikaprasetyaaa&style=for-the-badge&color=FF1E1E&label=PROFILE+VIEWS" alt="profile views"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<a href="https://www.instagram.com/diiicka?igsh=MWNlNjIxYXJrdWN2OA==" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-0D0D0D?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
+</a>
+
+<a href="www.linkedin.com/in/andikaprasetya28" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=0077B5"/>
+</a>
+
+</div>
+```
