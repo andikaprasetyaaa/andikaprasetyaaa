@@ -10,24 +10,63 @@
 
 <br>
 
+<div align="center">
+
+<img src="https://media.giphy.com/media/l0Hluu5p4DEJ32RK8/giphy.gif" width="420" alt="Conor McGregor staring"/>
+
+</div>
+
+<br>
+
 <h2>about.exe</h2>
 
 <p>
-AI Engineer focused on <b>Machine Learning, NLP, LLM applications, and Data Engineering</b>.
+AI Engineer. Machine Learning enthusiast. Data Engineering enjoyer.
 </p>
 
 <p>
-I like building things from raw data to working systems — 
-from data processing and model training to retrieval, APIs, automation, and deployment.
+I build intelligent systems from raw data to something that actually works.
+Models, retrieval, APIs, automation, databases — if there is data involved,
+I probably want to touch it.
 </p>
 
 <p>
-Currently obsessed with making machines understand text, retrieve the right context,
-and occasionally pretend they know what they're doing.
+My main territory is <b>Machine Learning, Deep Learning, NLP, LLMs, RAG,
+and Data Engineering</b>.
 </p>
 
 <p>
-<b>Core focus:</b> Machine Learning · Deep Learning · NLP · LLM · RAG · Data Engineering
+I train models, build pipelines, move data around, stare at logs,
+and occasionally discover that the bug was a missing comma.
+</p>
+
+<p>
+<b>Current obsession:</b> making machines understand text,
+retrieve the right context, and do useful things with it.
+</p>
+
+<br>
+
+<h3>the pipeline</h3>
+
+<p align="center">
+
+<b>DATA</b>
+&nbsp;→&nbsp;
+<b>MODEL</b>
+&nbsp;→&nbsp;
+<b>RETRIEVAL</b>
+&nbsp;→&nbsp;
+<b>API</b>
+&nbsp;→&nbsp;
+<b>AUTOMATION</b>
+&nbsp;→&nbsp;
+<b>PRODUCTION</b>
+
+</p>
+
+<p align="center">
+<i>raw data enters. intelligence leaves.</i>
 </p>
 
 <br>
@@ -113,6 +152,22 @@ and occasionally pretend they know what they're doing.
 
 <br>
 
+<h2>operating_system</h2>
+
 <p align="center">
-<i>data in. model trained. pipeline breaks. fix pipeline. repeat.</i>
+<i>
+Model training by day.<br>
+Data pipelines by night.<br>
+Occasional violence against broken dependencies.
+</i>
+</p>
+
+<br>
+
+<p align="center">
+<b>Train the model. Build the pipeline. Ship the system.</b>
+</p>
+
+<p align="center">
+<i>no vibes. just pipelines.</i>
 </p>
