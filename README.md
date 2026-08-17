@@ -117,17 +117,9 @@ I train models, build pipelines, move data around, stare at logs, and occasional
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=andikaprasetyaaa&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=andikaprasetyaaa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andikaprasetyaaa&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="170"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=andikaprasetyaaa&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andikaprasetyaaa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" />
 
 </div>
 
@@ -135,7 +127,7 @@ I train models, build pipelines, move data around, stare at logs, and occasional
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=andikaprasetyaaa&bg_color=0D0D0D&color=FFFFFF&line=FF1E1E&point=FF6B6B&area=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=andikaprasetyaaa&bg_color=0D0D0D&color=FFFFFF&line=FF1E1E&point=FF6B6B&area=true&hide_border=true" width="95%" />
 
 </div>
 
@@ -143,29 +135,6 @@ I train models, build pipelines, move data around, stare at logs, and occasional
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=andikaprasetyaaa&theme=onestar&no-frame=true&no-bg=true&margin-w=10&row=1" width="90%"/>
+<img src="https://komarev.com/ghpvc/?username=andikaprasetyaaa&style=for-the-badge&color=FF1E1E&label=PROFILE+VIEWS" alt="profile views" />
 
 </div>
-
-<br>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=andikaprasetyaaa&style=for-the-badge&color=FF1E1E&label=PROFILE+VIEWS" alt="profile views"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<a href="https://www.instagram.com/diiicka?igsh=MWNlNjIxYXJrdWN2OA==" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-0D0D0D?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
-</a>
-
-<a href="www.linkedin.com/in/andikaprasetya28" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=0077B5"/>
-</a>
-
-</div>
-```
