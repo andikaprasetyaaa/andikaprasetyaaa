@@ -1,77 +1,36 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:3A0A0A,100:FF1E1E&height=220&section=header&text=I%20Putu%20Andika%20Prasetya&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%C3%97%20Machine%20Learning%20%C3%97%20Data%20Engineering&descAlignY=56&descSize=18&descColor=FF6B6B" width="100%"/> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=FF1E1E&center=true&vCenter=true&width=680&lines=AI+Engineer+%7C+Machine+Learning+%26+Data+Engineering;Building+RAG+%2F+LLM+%2F+NLP+systems+in+Python;Currently+training%3A+an+AI+Combat+Sports+Coach+%F0%9F%A5%8A;Currently+building%3A+a+UFC+Knowledge+Graph+%2B+GraphRAG;Train+the+model+by+day%2C+train+the+jab+by+night" alt="Typing SVG" /> </a> <br/>
-Show Image Show Image Show Image Show Image
+<div align="center">
 
-</div> <br/>
-🥊 In My Corner
-<img align="right" height="220" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmlhYXZtOHZ2M2ZxMXFycGNpNmZoYWJ0a3J6am9kM3Jmbmc2NGZrbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XnmyEfZmS3a6PlVXxI/giphy.gif" />
-Information Technology graduate from Udayana University (GPA 3.91/4.00) with a sharp focus on AI engineering, machine learning, and data engineering. I like building systems that actually have to work end-to-end — data pipeline in, model in the middle, API/bot out the other side.
+Show Image
 
-Most of my reps go into:
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3AyeDJqeXpoNWF6dDUxeWRuaDNmM3lnbzNybTB1NnE2YXFvMGNvMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/39BdMOJMK2YVqktnlS/giphy.gif" width="240" alt="cartoon boxer throwing a combo" /> </div> <br/>
+🥊 In This Corner
 
-🧠 NLP & LLMs — entailment-guided summarization, hate speech detection, fine-tuning IndoBERT/IndoT5/NLLB
-🔎 Retrieval-Augmented Generation — hybrid retrieval (dense + lexical), knowledge graphs, vector search
-⚙️ Data & backend engineering — FastAPI services, PostgreSQL schemas, n8n orchestration, Dockerized deployments
-Off the keyboard, I train boxing/kickboxing — and yes, that shows up in my side projects too. 👇
+Hi, I'm Dika — an Information Technology graduate from Udayana University (GPA 3.91/4.00) who found his footing at the intersection of AI Engineering, Machine Learning, and Data Engineering.
 
-<br clear="both"/> <div align="center">
-Show Image Show Image Show Image Show Image Show Image
+I build systems that read, retrieve, and reason — NLP pipelines, RAG applications, and end-to-end ML workflows, trained (pun intended) to hold up outside the notebook. Off the clock, I'm probably fine-tuning my jab instead of my hyperparameters.
 
-</div> <br/>
-🛠️ Tech Stack
-<div align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" alt="python" title="Python"/> <img width="10"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="42" alt="kotlin" title="Kotlin"/> <img width="10"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="42" alt="pytorch" title="PyTorch"/> <img width="10"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="42" alt="tensorflow" title="TensorFlow"/> <img width="10"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="42" alt="fastapi" title="FastAPI"/> <img width="10"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="42" alt="docker" title="Docker"/> <img width="10"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="42" alt="postgresql" title="PostgreSQL"/> <img width="10"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="42" alt="mysql" title="MySQL"/> <img width="10"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="42" alt="mongodb" title="MongoDB"/> <img width="10"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" alt="git" title="Git"/> <img width="10"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="42" alt="jupyter" title="Jupyter"/> <img width="10"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="42" alt="android studio" title="Android Studio"/> <img width="10"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="42" alt="firebase" title="Firebase"/> </div> <br/> <details open> <summary><b>AI / Machine Learning</b></summary> <br/>
-Show Image Show Image Show Image Show Image Show Image Show Image
+No filler, no overexplaining — just someone who likes making models, and himself, a little harder to beat.
 
-</details> <details open> <summary><b>Backend & Automation</b></summary> <br/>
-Show Image Show Image Show Image
-
-</details> <details open> <summary><b>Databases & Retrieval</b></summary> <br/>
-Show Image Show Image Show Image Show Image Show Image Show Image
-
-</details> <details open> <summary><b>Tools & Platforms</b></summary> <br/>
-Show Image Show Image Show Image Show Image Show Image Show Image
-
-</details> <details open> <summary><b>APIs & Integrations</b></summary> <br/>
-Show Image Show Image Show Image
-
-</details> <br/>
-🥊 Fight Card — Featured Projects
-<div align="center"> <sub><b>ANDIKA PRASETYA PRESENTS</b> · AI × Data Engineering Showcase</sub> </div> <br/>
-🏆 MAIN EVENT
-
-AI Personal Combat Sports & Fitness Coach
-Python FastAPI n8n PostgreSQL Gemini API Docker Telegram Bot API Cloudflare Tunnel
-
-An AI-powered training partner that actually remembers you — schedules, health metrics, goals, and conversation history all in one place.
-
-Built n8n automation workflows for daily training-plan generation, workout/meal reminders, and Telegram-based Q&A
-Modular FastAPI backend with Gemini API integration and PostgreSQL-based persistent memory
-Three-layer memory system: short-term chat history → daily summaries → long-term user context
-🔥 CO-MAIN EVENT
-
-Babad Bali Question Answering System — RAG
-Python FAISS Cohere BM25 Gemini IndoBERT-QA Streamlit
-
-A Retrieval-Augmented Generation system that makes Balinese cultural and historical texts queryable.
-
-Hybrid retrieval combining Cohere embeddings, FAISS vector search, and BM25 lexical search
-Gemini LLM + fine-tuned IndoBERT-QA for context-aware answer generation
-Interactive Streamlit interface for querying retrieved cultural knowledge
-🥋 UNDERCARD
-
-Project	Stack	Highlight
-UFC Fighter Performance Analysis	Pandas, Scikit-learn, Plotly, Seaborn	Custom fighter skill score from 4,000+ fighter stats (striking, takedown, submission)
-Hybrid Indonesian News Summarization	IndoBERT, IndoT5, HuggingFace	Textual-entailment filtering + abstractive summarization, evaluated on ROUGE
-Balinese–Indonesian Neural Machine Translation	PyTorch, NLLB-200, SentencePiece	Fine-tuned NLLB-200 (600M) with GPU-accelerated inference + Streamlit UI
-Indonesian Hate Speech Detection	IndoBERT, IndoBERTweet, FastAPI	Fine-tuned models hitting 91%+ F1-score, served via real-time inference API
-Movie Analytics & Recommendation Dashboard	Pandas, NumPy, Scikit-learn, Plotly	Content-based recommender (TF-IDF + cosine similarity) over 9,000+ movies
-MediSight — Medical Wound Classification	Kotlin, TensorFlow Lite, Firebase	On-device wound classification for an Android healthcare app
 <br/>
-🎓 Credentials
-🎓 B.Sc. Information Technology — Udayana University, 2022–2026 · GPA 3.91/4.00
-🥇 Bangkit Academy (Google, Tokopedia, Gojek, Traveloka) — Distinction Graduate, Top 10%; capstone in Top 50 teams
-<br/>
-📊 Stats
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=andikaprasetyaaa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&title_color=FF1E1E&icon_color=FF1E1E&text_color=F5F5F5&bg_color=0D0D0D&border_color=FF1E1E&hide_border=false" height="165" alt="stats graph" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andikaprasetyaaa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&title_color=FF1E1E&icon_color=FF1E1E&text_color=F5F5F5&bg_color=0D0D0D&border_color=FF1E1E&hide_border=false" height="165" alt="languages graph" /> </div> <div align="center"> <img src="https://streak-stats.demolab.com?user=andikaprasetyaaa&theme=dark&hide_border=true&background=0D0D0D&border=FF1E1E&ring=FF1E1E&fire=FF1E1E&currStreakLabel=F5F5F5&sideLabels=F5F5F5&dates=9C9C9C&currStreakNum=F5F5F5&sideNums=F5F5F5" alt="streak stats" /> </div> <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=andikaprasetyaaa&theme=onedark&no-frame=true&row=1&column=7&margin-w=12" alt="trophies" /> </div> <br/>
-⚡ Live Activity
-<!-- Optional "canggih" touch: an animated snake that eats your contribution graph. Needs a one-time GitHub Actions setup — see snake.yml + instructions provided separately. Once set up, this picture tag will render automatically. --> <div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andikaprasetyaaa/andikaprasetyaaa/output/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andikaprasetyaaa/andikaprasetyaaa/output/github-contribution-grid-snake.svg" /> <img alt="contribution snake animation" src="https://raw.githubusercontent.com/andikaprasetyaaa/andikaprasetyaaa/output/github-contribution-grid-snake.svg" width="100%" /> </picture> </div> <br/> <div align="center"> <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2xjdnMzZ3M5ZDE2NG14aWZ4OGRodGpmODVnOTRjeWY5ODMzd2l4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9J1yVjx12mjZaZgZLq/giphy.gif" height="180" alt="mma training gif" /> <br/> <sub>Train hard. Ship harder.</sub> </div> <br/> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1E1E,50:3A0A0A,100:0D0D0D&height=120&section=footer" width="100%"/> </div>
+🩹 Tale of the Tape
+<div align="center">
+Attribute	Detail
+Division	AI / ML Engineering · Data Engineering
+Trained At	Udayana University — B.Sc. Information Technology
+Record	3.91 / 4.00 GPA
+Reach	Python → Model → Production
+Signature Move	Retrieval-Augmented Generation (RAG)
+Go-To Combo	NLP + Machine Learning + Data Pipelines
+Weigh-In Location	Gianyar, Bali 🇮🇩
+Status	Building & Leveling Up, Every Round
+</div> <br/>
+🧰 The Arsenal
+<p align="center"> <img src="https://img.shields.io/badge/Python-161616?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Kotlin-161616?style=for-the-badge&logo=kotlin&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-161616?style=for-the-badge" /> </p> <p align="center"> <img src="https://img.shields.io/badge/PyTorch-161616?style=for-the-badge&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-161616?style=for-the-badge&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/HuggingFace-161616?style=for-the-badge&logo=huggingface&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit--learn-161616?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-161616?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-161616?style=for-the-badge&logo=numpy&logoColor=white" /> </p> <p align="center"> <img src="https://img.shields.io/badge/FastAPI-161616?style=for-the-badge&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/n8n-161616?style=for-the-badge&logo=n8n&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-161616?style=for-the-badge&logo=docker&logoColor=white" /> </p> <p align="center"> <img src="https://img.shields.io/badge/PostgreSQL-161616?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-161616?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-161616?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/ChromaDB-161616?style=for-the-badge" /> <img src="https://img.shields.io/badge/FAISS-161616?style=for-the-badge" /> <img src="https://img.shields.io/badge/BM25-161616?style=for-the-badge" /> </p> <p align="center"> <img src="https://img.shields.io/badge/Streamlit-161616?style=for-the-badge&logo=streamlit&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-161616?style=for-the-badge&logo=firebase&logoColor=white" /> <img src="https://img.shields.io/badge/Git-161616?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter_Notebook-161616?style=for-the-badge&logo=jupyter&logoColor=white" /> <img src="https://img.shields.io/badge/Google_Colab-161616?style=for-the-badge&logo=googlecolab&logoColor=white" /> <img src="https://img.shields.io/badge/Android_Studio-161616?style=for-the-badge&logo=androidstudio&logoColor=white" /> </p> <p align="center"> <img src="https://img.shields.io/badge/Gemini_API-161616?style=for-the-badge&logo=googlegemini&logoColor=white" /> <img src="https://img.shields.io/badge/Cohere_API-161616?style=for-the-badge" /> <img src="https://img.shields.io/badge/Telegram_Bot_API-161616?style=for-the-badge&logo=telegram&logoColor=white" /> </p> <br/>
+📊 Scorecard
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=andikaprasetyaaa&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0D0D&title_color=D4A017&icon_color=B3122B&text_color=EDEAE3" width="48%" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andikaprasetyaaa&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=D4A017&text_color=EDEAE3&langs_count=6" width="38%" alt="Top Languages" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com/?user=andikaprasetyaaa&hide_border=true&background=0D0D0D&stroke=B3122B&ring=B3122B&fire=D4A017&currStreakLabel=EDEAE3&currStreakNum=EDEAE3&sideNums=EDEAE3&sideLabels=EDEAE3&dates=8A8A8E" width="70%" alt="GitHub Streak" /> </p> <br/>
+🤝 Touch Gloves
+<p align="center"> <a href="https://www.instagram.com/diiicka" target="_blank"> <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" /> </a> <a href="https://www.linkedin.com/in/andikaprasetya28" target="_blank"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /> </a> <a href="mailto:iputuandikaprasetyaa@gmail.com" target="_blank"> <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" /> </a> </p> <br/> <div align="center"> <img src="https://komarev.com/ghpvc/?username=andikaprasetyaaa&style=for-the-badge&color=B3122B&label=VISITORS+IN+MY+CORNER" alt="profile views" />
 
+<sub>Thanks for stopping by my corner. Let's build something that hits different. 🥊</sub>
+
+</div>
